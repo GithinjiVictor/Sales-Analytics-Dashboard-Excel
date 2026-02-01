@@ -26,7 +26,7 @@ This project is an advanced Excel dashboard designed to analyze sales performanc
   - *Discount Outliers* to identify sales reps exceeding the 20% discount threshold.
 
 ## 📂 How to Use
-1. Download the file `Excel_Assignment_[YourName].xlsx`.
+1. Download the file `Excel_Assignment_Githinji Victor Maina.xlsx`.
 2. Open the **"Dashboard"** tab to view the main visuals.
 3. Locate the **Control Panel** (on the Data sheet or Dashboard) to change the **Inflation %** and watch the margins update.
 
